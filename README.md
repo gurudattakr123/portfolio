@@ -1,10 +1,10 @@
-# AI Research Engineer
+# Software Development Engineer
 ### Skills
-- C++, Python, Matlab
-- Numpy, OpenCV, Open3D, PCL
-- Tensorflow, Pytorch
-- ROS, Gazebo
-- GIT, SVN
+- Nodejs, Advanced Javascript
+- ExpressJs, PUG
+- MySQL, Mongodb
+- AWS Services (EC2, API Gateway, RDS, Lambda, DynamoDB, Route53)
+- GIT
 
 ### Interests
 - Sensor Fusion, SLAM, State Estimation
@@ -12,8 +12,7 @@
 - Monocular Depth Estimation
 
 ### Education
-- M.Sc., Computer Engineering | Graz University of Technology  (_Jan 2021_)
-- B.E., Electronics and Telecommunication | Visvesvaraya Technological University (_Aug 2013_) 
+- B.E., Computer Science and Engineering | Visvesvaraya Technological University (_Aug 2017_) 
 
 ### Work Experience
 **AI Research Engineer @ Track Machines Connected GmBH (_March 2021 - Present_)**
