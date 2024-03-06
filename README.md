@@ -1,7 +1,7 @@
 
 ### Work Experience
 **Software Developer @ Cyient India (_August 2022 - Present_)**
-- Converted the Proof of Concept (POC) of an Intelligent Data Management System for the utilities domain. This system validates, establishes, purifies, and governs data quality for target systems.
+- Converted the Proof of Concept (POC) of an Intelligent Data Management System for the utilities domain into demonstratable application. This system validates, establishes, purifies, and governs data quality for target systems.
 - Designed, implemented, and deployed a web application for the above use cases using Node.js and MySQL as the backend in Phase 1.
 - Transitioned to using Databricks as the data source for Phase 2, replacing MySQL.
 - Utilized Azure Virtual Machine (VM), Azure Databricks, and Azure MySQL for deploying the application.
