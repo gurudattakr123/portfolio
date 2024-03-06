@@ -23,7 +23,18 @@
 - Handled freshers, conducted interviews, and trained and onboarded them to the project.
 
 **Associate Technical Specialist @ Digital APICraft (_June 2019 - June 2021_)**
-- Designed and implemented an intelligent route optimization algorithm for warehouse robots. Leveraging real-time inventory information, the algorithm dynamically adjusted robot paths, minimizing travel time and maximizing efficiency within the warehouse environment.
+
+- #### Open Energy & Utility (Domestic and Business) (January 2020 - June 2021)
+- Developed REST APIs using Node.js and Express.js for a UK-based price comparison and switching services company.
+- Integrated numerous third-party APIs from the UK Energy sector.
+- Worked with both SQL (MySQL) and NoSQL (DynamoDB) data storage solutions.
+
+- #### Open Banking, Digital Banking and PSD2 (June 2019 - December 2019)
+- Assisted in building banking APIs within a team of 8.
+- Contributed to API documentation using Swagger.
+- Implemented simple business logics using Java Spring Boot.
+- Gained experience in unit testing using Mockito.
+
 
 **Software Developer @ Msky Infocom Pvt Ltd (_Feb 2018 - Feb 2019_)**
 - Software development for an online taxi booking application.
