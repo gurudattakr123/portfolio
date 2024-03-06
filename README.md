@@ -1,4 +1,15 @@
+# Software Development Engineer
 
+### Skills
+        
+- Node.js, Express.js
+- Advanced JavaScript
+- MySQL, MongoDB
+- AWS Cloud Infrastructure (EC2, API Gateway, RDS, Lambda, DynamoDB, Route53)
+- Azure Cloud(VM, API Management Service, App Services)
+- Microservice Architecture, REST API
+- GIT, PM2
+        
 ### Work Experience
 **Software Developer @ Cyient India (_August 2022 - Present_)**
 - Converted the Proof of Concept (POC) of an Intelligent Data Management System for the utilities domain into demonstratable application. This system validates, establishes, purifies, and governs data quality for target systems.
