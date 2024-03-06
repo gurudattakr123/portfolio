@@ -83,23 +83,27 @@
         <h1>Software Development Engineer</h1>
         <h2>Skills</h2>
         <ul>
-            <li>Node.js, Advanced JavaScript, Express.js</li>
+            <li>Node.js, Express.js</li>
+            <li>Advanced JavaScript</li>
             <li>MySQL, MongoDB</li>
-            <li>AWS Services (EC2, API Gateway, RDS, Lambda, DynamoDB, Route53)</li>
-            <li>Azure (VM, API Management Service, App Services)</li>
+            <li>AWS Cloud Infrastructure 
+              (EC2, API Gateway, RDS, Lambda, DynamoDB, Route53)</li>
+            <li>Azure Cloud(VM, API Management Service, App Services)</li>
             <li>Microservice Architecture, REST API</li>
             <li>GIT, PM2</li>
         </ul>
     </header>
+
+    <footer>
+      {% if site.github.is_project_page %}
+          <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+      {% endif %}
+  </footer>
     <section>
         
         {{ content }}
     </section>
-    <footer>
-        {% if site.github.is_project_page %}
-            <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-    </footer>
+    
 </div>
 </body>
 </html>
