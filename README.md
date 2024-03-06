@@ -1,19 +1,3 @@
-# Software Development Engineer
-### Skills
-- Nodejs, Advanced Javascript, ExpressJs
-- MySQL, Mongodb
-- AWS Services (EC2, API Gateway, RDS, Lambda, DynamoDB, Route53)
-- Azure (VM, API Mangement Service, App Services) 
-- Microservice Architecture, Rest API
-- GIT, PM2
-
-### Interests
-- Application Architecture Design
-- IoT
-- Cloud Development 
-
-### Education
-- B.E., Computer Science and Engineering | Visvesvaraya Technological University (_Aug 2017_)
 
 ### Work Experience
 **Software Developer @ Cyient India (_August 2022 - Present_)**
@@ -31,7 +15,7 @@
 **Associate Technical Specialist @ Digital APICraft (_June 2019 - June 2021_)**
 - Designed and implemented an intelligent route optimization algorithm for warehouse robots. Leveraging real-time inventory information, the algorithm dynamically adjusted robot paths, minimizing travel time and maximizing efficiency within the warehouse environment.
 
-**Software Developer @ Msky Infocom Pvt Ltd (_May 2014 - Aug 2016_)**
+**Software Developer @ Msky Infocom Pvt Ltd (_Feb 2018 - Feb 2019_)**
 - Software development for an online taxi booking application.
 
 ### Projects 
@@ -39,3 +23,15 @@
 - Developing a trip management system for efficient planning and documentation of travel experiences. 
 - Tech skills I aim to acquire: Python, Node.js, PostgreSQL, NoSQL, Microservices, RabbitMQ, Socket.io, and AWS. 
 - Key features include robust API security, microservices architecture, real-time chat service, cloud deployment, and data management with future AI/ML integration for personalized suggestions.
+
+### Interests
+- Application Architecture Design
+- IoT
+- Cloud Development 
+
+### Education
+- B.E., Computer Science and Engineering | Visvesvaraya Technological University (_Aug 2017_)
+
+### Hobbies
+- Landscape Photography, Gardening, Travelling, Trekking
+- https://www.instagram.com/gurudath_kr/
