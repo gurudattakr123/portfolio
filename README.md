@@ -2,8 +2,7 @@
 
 ### Skills
         
-- Node.js, Express.js
-- Advanced JavaScript
+- Node.js, Express.js, Advanced JavaScript
 - MySQL, MongoDB
 - AWS Cloud Infrastructure (EC2, API Gateway, RDS, Lambda, DynamoDB, Route53)
 - Azure Cloud(VM, API Management Service, App Services)
